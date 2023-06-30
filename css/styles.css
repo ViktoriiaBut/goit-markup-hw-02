@@ -51,7 +51,7 @@ body {
 }
 
 .header-menu-link {
-    color: var(--secondary-color);
+    color: var(---main-color);
         font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
@@ -60,7 +60,6 @@ body {
 .header-menu-link:hover,
 .header-menu-link:focus {
 color: #404bbf;
-color: #404bbf;
 }
 
 .header-address {
@@ -68,7 +67,7 @@ color: #404bbf;
 }
 
 .header-address-link {
-    color: #434455;
+    color: var(--secondary-color);
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -195,7 +194,9 @@ background-color: #404BBF;
     cursor: pointer;
     background-color: #F4F4FD;
 }
-
+.service-link {
+    text-decoration: none;
+}
         
         .service-item {background: #F4F4FD}
                  
