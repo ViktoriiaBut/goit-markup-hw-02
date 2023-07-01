@@ -49,16 +49,14 @@ body {
 .header-logo-accent {
     color: var(--main-color);
 }
-.header-menu {
-color: var(---main-color);
-}
 
 .header-menu-item:hover,
 .header-menu-item:focus {
-    color: color: #404bbf;
+   color: #404bbf;
 }
+#434455
 .header-menu-link {
-    color: var(---main-color);
+    color: var(--main-color);
         font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
@@ -73,14 +71,14 @@ color: var(---main-color);
         letter-spacing: 0.02em;
 }
 
-.header-address-item {
+.header-adress-link {
     color: var(--secondary-color);
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-.header-address-item:hover,
-.header-address-item:focus {
+.hheader-adress-link:hover,
+.header-adress-link:focus {
     color: #404bbf;
 }
      
