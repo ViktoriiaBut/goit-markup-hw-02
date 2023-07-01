@@ -78,9 +78,9 @@ body {
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-.hheader-adress-link:hover,
+.header-adress-link:hover,
 .header-adress-link:focus {
-    color: #404bbf;
+    color: #404bbf; 
 }
      
 /*------------HERO-----------*/
